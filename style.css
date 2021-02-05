@@ -1,0 +1,95 @@
+body {
+  background-color: #0063b2ff;
+  font-family: 'Inconsolata', monospace;
+  /* user agent stylesheet from Chrome DevTools
+    display: block;
+    margin: 8px;
+  */
+  color: white;
+    
+}
+
+header {
+    border: 1px solid white;
+    /* display: block; from user agent stylesheet*/
+}
+
+h1 {
+
+}
+
+main {
+    display: flex; /* default was 'block' */
+}
+
+#box {
+  border: 10px solid #9cc3d5ff;
+  width: 300px;
+  height: 300px;
+  margin: 25% auto;
+  padding: 100px;
+}
+
+#left {
+  border: 5px solid #9cc3d5ff;
+  width: 140px;
+  height: 290px;
+  display: inline-block;
+  background-color ;
+}
+
+#right {
+  border: 5px solid #9cc3d5ff;
+  width: 140px;
+  height: 290px;
+  float: right;
+  background-color: ;
+}
+
+#box2 {
+    border: 10px solid #9cc3d5ff;
+    width: 300px;
+    height: 300px;
+    margin: 25% auto;
+    padding: 100px;
+  }
+  
+  #left2 {
+    border: 5px solid #9cc3d5ff;
+    width: 140px;
+    height: 290px;
+    display: ;
+    background-color ;
+  }
+  
+  #right2 {
+    border: 5px solid #9cc3d5ff;
+    width: 140px;
+    height: 290px;
+    float: right;
+    background-color: ;
+  }
+  #box3 {
+    border: 10px solid #9cc3d5ff;
+    width: 300px;
+    height: 300px;
+    margin: 25% auto;
+    padding: 100px;
+  }
+  
+  #left3 {
+    border: 5px solid #9cc3d5ff;
+    width: 140px;
+    height: 290px;
+    display: ;
+    background-color ;
+  }
+  
+  #right3 {
+    border: 5px solid #9cc3d5ff;
+    width: 140px;
+    height: 290px;
+    float: right;
+    background-color: ;
+  }
+  
