@@ -11,4 +11,4 @@ yet to come ...
 HTML
 CSS
 
-_/*CSS doesn't seem to be a language: not even a markup one._
+_\*CSS doesn't seem to be a language: not even a markup one._
